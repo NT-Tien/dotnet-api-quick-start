@@ -1,0 +1,6 @@
+@api_quick_start_HostAddress = http://localhost:5134
+
+GET {{api_quick_start_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

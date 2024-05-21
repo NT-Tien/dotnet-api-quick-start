@@ -1,0 +1,6 @@
+﻿services:
+  api-quick-start:
+    image: api-quick-start
+    build:
+      context: .
+      dockerfile: api-quick-start/Dockerfile
